@@ -1,0 +1,18 @@
+During Training
+epoch: 0, acc: 0.310, loss: 1.099
+epoch: 100, acc: 0.820, loss: 0.725
+epoch: 200, acc: 0.660, loss: 0.545
+epoch: 300, acc: 0.970, loss: 0.429
+epoch: 400, acc: 0.780, loss: 0.460
+epoch: 500, acc: 0.970, loss: 0.233
+epoch: 600, acc: 0.970, loss: 0.193
+epoch: 700, acc: 0.960, loss: 0.177
+epoch: 800, acc: 0.960, loss: 0.156
+epoch: 900, acc: 0.960, loss: 0.144
+epoch: 1000, acc: 0.960, loss: 0.134
+epoch: 1100, acc: 0.970, loss: 0.126
+epoch: 1200, acc: 0.970, loss: 0.120
+epoch: 1300, acc: 0.970, loss: 0.112
+epoch: 1400, acc: 0.970, loss: 0.108
+During Testing
+acc: 0.940, loss: 0.121
