@@ -1,10 +1,5 @@
 """
 
-Assignment Submitted By:
-Names:
-1. Rupesh Kumar Nidhi
-2. Dipendra Prasad Rauniyar
-
 Network Architecture
 4 inputs => 4 neurons => relu => 3 neurons => softmax => 3 output
 
